@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Outer Circle -->
+  <circle cx="256" cy="256" r="240" fill="#3b1408" stroke="#d4af37" stroke-width="12"/>
+  <circle cx="256" cy="256" r="220" fill="none" stroke="#d4af37" stroke-width="4"/>
+
+  <!-- Star -->
+  <circle cx="256" cy="70" r="10" fill="#ffd700"/>
+
+  <!-- Head -->
+  <circle cx="256" cy="180" r="28" fill="#c68642"/>
+
+  <!-- Crown -->
+  <polygon points="230,150 256,120 282,150" fill="#ffd700"/>
+  <circle cx="256" cy="120" r="6" fill="#ff4500"/>
+
+  <!-- Body -->
+  <rect x="220" y="210" width="72" height="110" rx="10" fill="#8b0000"/>
+
+  <!-- Necklace -->
+  <circle cx="256" cy="230" r="6" fill="#ffd700"/>
+  <line x1="256" y1="230" x2="256" y2="260" stroke="#ffd700" stroke-width="4"/>
+
+  <!-- Arms -->
+  <line x1="220" y1="230" x2="140" y2="150" stroke="#c68642" stroke-width="10"/>
+  <line x1="292" y1="230" x2="370" y2="180" stroke="#c68642" stroke-width="10"/>
+
+  <!-- Bangles -->
+  <circle cx="180" cy="170" r="10" fill="none" stroke="#ffd700" stroke-width="4"/>
+  <circle cx="330" cy="200" r="10" fill="none" stroke="#ffd700" stroke-width="4"/>
+
+  <!-- Skirt -->
+  <path d="M200 320 Q256 420 312 320 Z" fill="#b22222" stroke="#d4af37" stroke-width="4"/>
+
+  <!-- Feet -->
+  <ellipse cx="230" cy="400" rx="12" ry="8" fill="#c68642"/>
+  <ellipse cx="282" cy="400" rx="12" ry="8" fill="#c68642"/>
+</svg>
